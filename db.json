@@ -1,0 +1,85 @@
+{
+  "breeds": [
+    {
+      "id": 1,
+      "name": "Holstein",
+      "origin": "Netherlands",
+      "type": "Dairy",
+      "color": "Black and White",
+      "weight": {
+        "male": "900-1000 kg",
+        "female": "600-700 kg"
+      },
+      "milk_production": "6000-10000 liters/year",
+      "characteristics": ["High milk production", "Docile temperament", "Good feed conversion"],
+      "image_url": "https://example.com/holstein.jpg",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Angus",
+      "origin": "Scotland",
+      "type": "Beef",
+      "color": "Black or Red",
+      "weight": {
+        "male": "850-1000 kg",
+        "female": "550-650 kg"
+      },
+      "milk_production": null,
+      "characteristics": ["Excellent meat quality", "Hardy", "Good mothering ability"],
+      "image_url": "https://example.com/angus.jpg",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Jersey",
+      "origin": "Jersey Island",
+      "type": "Dairy",
+      "color": "Light brown to dark fawn",
+      "weight": {
+        "male": "540-820 kg",
+        "female": "360-540 kg"
+      },
+      "milk_production": "3500-5500 liters/year",
+      "characteristics": ["High butterfat content", "Heat tolerant", "Efficient grazer"],
+      "image_url": "https://example.com/jersey.jpg",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Brahman",
+      "origin": "India",
+      "type": "Dual-purpose",
+      "color": "Light to dark gray",
+      "weight": {
+        "male": "800-1100 kg",
+        "female": "500-700 kg"
+      },
+      "milk_production": "1500-3000 liters/year",
+      "characteristics": ["Heat resistant", "Disease resistant", "Good for tropical climates"],
+      "image_url": "https://example.com/brahman.jpg",
+      "created_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Charolais",
+      "origin": "France",
+      "type": "Beef",
+      "color": "Cream to white",
+      "weight": {
+        "male": "1000-1150 kg",
+        "female": "700-800 kg"
+      },
+      "milk_production": null,
+      "characteristics": ["Large frame", "Excellent growth rate", "Lean meat"],
+      "image_url": "https://example.com/charolais.jpg",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  ],
+  "metadata": {
+    "total": 5,
+    "page": 1,
+    "per_page": 5,
+    "last_updated": "2024-01-01T00:00:00Z"
+  }
+}
