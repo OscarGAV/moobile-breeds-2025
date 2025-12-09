@@ -12,7 +12,7 @@
       },
       "milk_production": "6000-10000 liters/year",
       "characteristics": ["High milk production", "Docile temperament", "Good feed conversion"],
-      "image_url": "https://example.com/holstein.jpg",
+      "image_url": "https://www.euromeat.ro/wp-content/uploads/2017/03/holstein-friesian.jpg",
       "created_at": "2024-01-01T00:00:00Z"
     },
     {
@@ -20,14 +20,14 @@
       "name": "Angus",
       "origin": "Scotland",
       "type": "Beef",
-      "color": "Black or Red",
+      "color": "Red",
       "weight": {
         "male": "850-1000 kg",
         "female": "550-650 kg"
       },
       "milk_production": null,
       "characteristics": ["Excellent meat quality", "Hardy", "Good mothering ability"],
-      "image_url": "https://example.com/angus.jpg",
+      "image_url": "https://www.sirebuyer.com/wp-content/uploads/2021/10/Jeffries-Gladiator-24C.jpg",
       "created_at": "2024-01-01T00:00:00Z"
     },
     {
@@ -42,7 +42,7 @@
       },
       "milk_production": "3500-5500 liters/year",
       "characteristics": ["High butterfat content", "Heat tolerant", "Efficient grazer"],
-      "image_url": "https://example.com/jersey.jpg",
+      "image_url": "https://i.pinimg.com/originals/f2/3c/50/f23c507c7b2dab3fbb5bad56c8de5e13.jpg",
       "created_at": "2024-01-01T00:00:00Z"
     },
     {
@@ -57,7 +57,7 @@
       },
       "milk_production": "1500-3000 liters/year",
       "characteristics": ["Heat resistant", "Disease resistant", "Good for tropical climates"],
-      "image_url": "https://example.com/brahman.jpg",
+      "image_url": "https://maeckelfarmcattle.com/wp-content/uploads/2023/01/Mr.-Ingram-JAN23.jpg",
       "created_at": "2024-01-01T00:00:00Z"
     },
     {
@@ -72,7 +72,7 @@
       },
       "milk_production": null,
       "characteristics": ["Large frame", "Excellent growth rate", "Lean meat"],
-      "image_url": "https://example.com/charolais.jpg",
+      "image_url": "https://elpotrerocr.com/wp-content/uploads/2024/05/Ganado_Charolais-13.jpg",
       "created_at": "2024-01-01T00:00:00Z"
     }
   ],
